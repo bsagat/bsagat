@@ -1,5 +1,5 @@
 ![Header](./github-header-banner.png)
-<h1 align="center">Hi there👋</h1>
+<h1 align="center">✨ Welcome to my GitHub space!</h1>
 
 <h3 align="left">About me:</h3>
 
